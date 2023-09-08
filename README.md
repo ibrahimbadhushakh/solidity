@@ -1,11 +1,11 @@
 # MyToken Contract
 
-This is a simple Solidity smart contract for creating a custom ERC-20 token called "ELIZA" (ELZA).
+This is a simple Solidity smart contract for creating a custom ERC-20 token called "ELIZA" (ELZ).
 
 ## Contract Details
 
-- *Token Name*: META
-- *Token Abbreviation*: MTA
+- *Token Name*: ELIZA
+- *Token Abbreviation*: ELZ
 - *Total Supply*: 0 (initially)
 
 ## Public Variables
